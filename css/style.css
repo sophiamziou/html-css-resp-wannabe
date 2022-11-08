@@ -127,3 +127,13 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+
+/* tablet responsive */
+
+@media screen and (max-width:768px) {
+    .container {
+        width: 753px;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+}
